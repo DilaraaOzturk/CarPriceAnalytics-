@@ -87,4 +87,4 @@ Proje ilerledikçe yeni özellikler ve dokümantasyon eklenecektir.
 
 Dilara Ozturk  
 Veri Bilimi & Makine Öğrenmesi
-```
+
